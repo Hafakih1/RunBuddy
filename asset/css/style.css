@@ -41,6 +41,8 @@ header nav ul li a {
     font-size: 22px;
   }
 
+
+  
   /* apply styles to footer*/
   
 footer {
@@ -62,3 +64,28 @@ footer div{
 footer a{
     color:#024e76
 }
+
+/* apply styles to section. */
+
+section{
+    padding: 60px;
+    background-image: url("../images/hero-bg.jpg") ;
+}
+
+/* Hero Style Start */
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size:cover;
+  }
+.hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+    border-style: solid;
+    border-width: 3px;
+    border-color:#024e76;
+}
+
+  /* Hero Style End */
